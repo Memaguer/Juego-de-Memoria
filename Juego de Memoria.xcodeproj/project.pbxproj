@@ -48,6 +48,7 @@
 		30C1192E1BF907EA008412FB /* Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
 		30C119301BF907EA008412FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		30C1193C1BF90CE0008412FB /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = "<group>"; };
+		30C1193D1BF90EE5008412FB /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../Juego de Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		30C119021BF907E9008412FB = {
 			isa = PBXGroup;
 			children = (
+				30C1193D1BF90EE5008412FB /* Juego de Memoria.playground */,
 				30C1190D1BF907EA008412FB /* Juego de Memoria */,
 				30C119221BF907EA008412FB /* Juego de MemoriaTests */,
 				30C1192D1BF907EA008412FB /* Juego de MemoriaUITests */,
